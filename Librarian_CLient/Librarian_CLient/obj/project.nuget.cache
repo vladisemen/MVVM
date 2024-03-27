@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KJ5aSWrWpW08w3oQVXu92tRZns63yjuWJsxHYVpUXWCG81P4VgKdd76h/KGERkFzGlIAO7JoMxnvsZmcWIOI0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\droch\\source\\repos\\Librarian_CLient\\Librarian_CLient\\Librarian_CLient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\droch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
